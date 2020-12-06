@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # Pasos para ejecutar la Aplicación
 
 # 1. Si usted utiliza npm
+=======
+
+## Pasos para ejecutar la Aplicación
+
+## 1. Si usted utiliza npm
+>>>>>>> 9fa8b0c63bd2cd8679ca6c2fd0e6ea572e6c15cd
 > Instalar las dependencias
 ```sh
     npm install
