@@ -24,7 +24,7 @@
 .Menu-unselect{
   border-bottom: 3px solid transparent;
 }
-@media (max-width:504px){
+@media (max-width:375px){
   .Menu-option ul{
     width: 100%;
   }

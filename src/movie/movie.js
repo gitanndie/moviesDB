@@ -6,7 +6,6 @@ const Movie = (props) =>(
       className="Movie"
       onClick={ props.handleOpen }
       id={props.id}>
-
       <img
         src={
           props.image ?
@@ -15,7 +14,6 @@ const Movie = (props) =>(
         alt="imagen"
         id={props.id}
       />
-
       <h5
         id={props.id}
       >

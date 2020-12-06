@@ -1,14 +1,11 @@
 import React, { Component } from 'react'
 import aja from 'aja'
 import './list-movie.css'
-
 import ModalContainer from '../modal/modal-container'
 import Modal from '../modal/modal'
 import Movie from './movie'
 import BtnNext from '../movie/btn-next'
-
 import YouTube from 'react-youtube'
-
 class ListMovie extends Component{
   state = {
     list:[],
