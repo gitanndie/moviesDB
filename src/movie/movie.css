@@ -25,9 +25,10 @@
 .Movie:hover{
   transform: scale(1.2,1.2);
 }
-@media (max-width:504px){
+@media (max-width:375px){
   .Movie{
     display: block;
     margin: 15px auto;
+    margin-bottom: 20px;
   }
 }
