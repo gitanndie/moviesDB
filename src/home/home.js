@@ -9,7 +9,7 @@ import EstrenosFlyer from './estrenos.jpg';
 const Home = ()=>(
   <div className="Home">
     <h2>
-      Bienvenidos al portal de peliculas
+      Bienvenidos al portal de películas
     </h2>
     <Link to="/populares" target="_blank">
       <Movie imageLocal={PopularFlyer} titulo="Populares"/>
