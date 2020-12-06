@@ -1,0 +1,28 @@
+.btnNext {
+  position: fixed;
+  background: #E91E63;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 200;
+  padding: 15px;
+  bottom: 40px;
+  right: 30px;
+  width: 100px;
+  height: auto;
+  user-select: none;
+}
+.btnNext svg{
+  position: absolute;
+  right: 30px;
+  top: 12px;
+  fill: #efece9;
+}
+.btnNext:hover {
+  background: #FFEB3B;
+  color: #2d2d2d;
+  fill:#2d2d2d;
+}
+.btnNext:hover svg{
+  fill: #2d2d2d;
+}

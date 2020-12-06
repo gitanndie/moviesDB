@@ -1,0 +1,48 @@
+.Modal {
+  max-width: 768px;
+  width: 100%;
+  margin: 0 auto;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 100px;
+  background: #000;
+  border: 2px solid #E91E63;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,.4);
+}
+.Modal::before{
+  content: '';
+  display: block;
+  background: rgba(28, 26, 26, 0.71);
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index: 0;
+}
+.Modal-close {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  right: -25px;
+  top: -25px;
+  border-radius: 50%;
+  border: none;
+  background: #E91E63;
+  cursor: pointer;
+}
+.Modal-close svg{
+  fill: #000000;
+  margin: 0 auto;
+  display: block;
+  margin-top: 13px;
+}
+/* estilos para el iframe de youtube*/
+.Modal iframe{
+  display: block;
+  position: relative;
+  margin: 0 auto;
+}
