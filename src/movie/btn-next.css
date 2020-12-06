@@ -3,7 +3,7 @@
   background: #E91E63;
   color: #fff;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 250;
   padding: 15px;
   bottom: 10px;
@@ -19,7 +19,7 @@
   fill: #efece9;
 }
 .btnNext:hover {
-  background: #d4c964;
+  background: #def324;
   color: #2d2d2d;
   fill:#2d2d2d;
 }

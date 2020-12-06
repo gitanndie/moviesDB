@@ -1,7 +1,7 @@
 .Movie,
 .Movie img{
-  width: 185px;
-  height: 278px;
+  width: 180px;
+  height: 280px;
 }
 .Movie{
   position: relative;
@@ -14,7 +14,7 @@
   cursor:pointer;
   transition: all 0.2s ease-out;
 }
-.Movie h4{
+.Movie h5{
   position: absolute;
   color: #fff;
   width: 100%;

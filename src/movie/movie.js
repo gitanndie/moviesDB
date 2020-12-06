@@ -16,11 +16,11 @@ const Movie = (props) =>(
         id={props.id}
       />
 
-      <h4
+      <h5
         id={props.id}
       >
         { props.titulo }
-      </h4>
+      </h5>
     </div>
 )
 export default Movie

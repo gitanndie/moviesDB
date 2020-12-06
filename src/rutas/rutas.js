@@ -13,7 +13,7 @@ class Rutas extends Component {
           <ListMovie
             apiUrl={this.props.popular}
             section="Películas Populares"
-            color="#e91e63"
+            color= "white"
             handleOpen={ this.props.handleOpen }
           />)
         }
@@ -22,7 +22,7 @@ class Rutas extends Component {
           <ListMovie
             apiUrl={this.props.valorados}
             section="Películas Más Valoradas"
-            color="#2196F3"
+            color= "white"
             handleOpen={ this.props.handleOpen }
           />)
         }
@@ -31,7 +31,7 @@ class Rutas extends Component {
           <ListMovie
             apiUrl={this.props.proximos}
             section="Próximos Estrenos"
-            color="#FFEB3B"
+            color= "white"
             handleOpen={ this.props.handleOpen }
           />)
         }
