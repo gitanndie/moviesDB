@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Major+Mono+Display&display=swap');
+
 body{
-  background: goldenrod;
-  font-family: sans-serif;
+  background: rgb(221, 172, 48);
+  font-family: 'Handlee', cursive;
+
 }

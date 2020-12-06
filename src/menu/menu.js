@@ -43,10 +43,10 @@ class Menu extends Component{
               <Link to="/populares" id="populares">Populares</Link>
             </li>
             <li>
-              <Link to="/valorados" id="valorados">Más Valorados</Link>
+              <Link to="/valorados" id="valorados">Valorados</Link>
             </li>
             <li>
-              <Link to="/estrenos" id="estrenos">Próximos Estrenos</Link>
+              <Link to="/estrenos" id="estrenos">Estrenos</Link>
             </li>
           </ul>
         </div>

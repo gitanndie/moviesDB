@@ -3,11 +3,14 @@
   padding: 15px 5px;
   text-align: center;
 }
-.Home h3{
-  color: #111010;
-  font-size: 40px;
+.Home h2{
+  color: white;
+  font-size: 50px;
 }
-.Home a{
-  text-decoration: none;
-  color:#61dafb;
+
+.Home h6{
+  color: white;
+  margin-top: 50px;
+  font-size: 20px;
 }
+

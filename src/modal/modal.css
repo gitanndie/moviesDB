@@ -6,11 +6,11 @@
   left: 0;
   right: 0;
   top: 100px;
-  background: #000;
-  border: 2px solid #E91E63;
+  background: white;
+  border: 2px solid #b96b85;
   padding: 20px;
   border-radius: 20px;
-  box-shadow: 0 0 10px rgba(0,0,0,.4);
+  box-shadow: 0 0 10px rgba(182, 176, 176, 0.4);
 }
 .Modal::before{
   content: '';

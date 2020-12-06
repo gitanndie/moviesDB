@@ -7,6 +7,8 @@
   position: relative;
   display: inline-block;
   margin: 30px;
+  border-radius: 5%;
+  border: 2px solid white;
   background: #4a4a4a;
   overflow: hidden;
   cursor:pointer;

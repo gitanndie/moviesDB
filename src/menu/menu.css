@@ -1,15 +1,8 @@
-.ReactherLogo{
-  text-align: center;
-}
-.ReactherLogo img{
-  width: 170px;
-  height: 85px;
-}
 .Menu-option ul{
   text-align: center;
   width: 100%;
   margin: 0 auto;
-  border-bottom: 2px solid #790e32;
+  border-bottom: 2px solid white;
   padding: 5px 0px;
 }
 .Menu-option ul li{
@@ -19,13 +12,14 @@
 .Menu-option ul li a{
   padding: 5px 15px;
   text-decoration: none;
-  color: #080707;
+  color: white;
+  font-size: 30px;
 }
 .Menu-option ul li a:hover{
-  border-bottom: 3px solid #FFEB3B;
+  border-bottom: 3px solid #d64e9e;
 }
 .Menu-select{
-  border-bottom: 3px solid #FFEB3B;
+  border-bottom: 3px solid #bd7dca;
 }
 .Menu-unselect{
   border-bottom: 3px solid transparent;

@@ -8,18 +8,21 @@ import EstrenosFlyer from './estrenos.jpg';
 
 const Home = ()=>(
   <div className="Home">
-    <h3>
-      Bienvenido
-    </h3>
+    <h2>
+      Bienvenidos al portal de peliculas
+    </h2>
     <Link to="/populares" target="_blank">
       <Movie imageLocal={PopularFlyer} titulo="Populares"/>
     </Link>
     <Link to="/valorados" target="_blank">
-      <Movie imageLocal={ValoradosFlyer} titulo="Más Valorados"/>
+      <Movie imageLocal={ValoradosFlyer} titulo="Valorados"/>
     </Link>
     <Link to="/estrenos" target="_blank">
-      <Movie imageLocal={EstrenosFlyer} titulo="Próximos Estrenos"/>
+      <Movie imageLocal={EstrenosFlyer} titulo="Estrenos"/>
     </Link>
+    <h6>
+      Prueba Técnica: Andrea González Mantilla
+    </h6>
   </div>
 );
 
