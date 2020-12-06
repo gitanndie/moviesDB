@@ -1,13 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-# Reacther
-![Reacther](https://raw.githubusercontent.com/gdgsucre/AppMovieReact/master/public/assets/images/reacther-dark.png)
-
-## Presentación
-> Expositora Invitada: Tania Tello (Mexico) [Beneficios de React](http://slides.com/taniaanahitello/deck#/)
-
-## Api Utilizado
-> The Movie DB v3 [TheMovieDB](https://www.themoviedb.org/)
 
 ## Pasos para ejecutar la Aplicación
 
