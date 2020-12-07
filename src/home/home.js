@@ -2,7 +2,7 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 import './home.css';
 import Movie from '../movie/movie';
-import PopularFlyer from './popular.jpg';
+import PopularFlyer from './populares.jpg';
 import ValoradosFlyer from './valorados.jpg';
 import EstrenosFlyer from './estrenos.jpg';
 

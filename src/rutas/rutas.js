@@ -1,9 +1,7 @@
 import React,{ Component } from 'react'
-
 import { Route } from 'react-router-dom'
 import ListMovie from '../movie/list-movie'
 import Home from '../home/home'
-
 class Rutas extends Component {
   render(){
     return(

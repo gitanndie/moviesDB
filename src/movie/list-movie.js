@@ -30,7 +30,7 @@ class ListMovie extends Component{
     let id = event.target.id;
     let self = this;
     aja()
-    .url(`https://api.themoviedb.org/3/movie/${id}/videos?api_key=6723abcb736dade2ce411013316b9e8f&language=en-US`)
+    .url(`https://api.themoviedb.org/3/movie/76341${id}/videos?api_key=6723abcb736dade2ce411013316b9e8f&language=en-US`)
     .method('get')
     .on('success', function(data){
       //cuando llega respuesta
